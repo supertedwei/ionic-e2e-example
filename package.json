@@ -32,7 +32,7 @@
   "devDependencies": {
     "@ionic/app-scripts": "1.2.2",
     "protractor": "^5.1.1",
-    "typescript": "2.0.9"
+    "typescript": "2.2.1"
   },
   "cordovaPlugins": [
     "cordova-plugin-statusbar",
